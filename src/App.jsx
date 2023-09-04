@@ -1,7 +1,10 @@
+// import { Counter } from './features/counter/Counter';
+import Home from './pages/Home';
+
 function App() {
   return (
-    <div>
-      <h1>Basic Template</h1>
+    <div className="App">
+      <Home></Home>
     </div>
   );
 }
