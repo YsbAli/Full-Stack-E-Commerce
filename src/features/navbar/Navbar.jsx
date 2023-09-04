@@ -9,11 +9,12 @@ import {
 const user = {
   name: "Yousub",
   email: "Yousub.webdev@gmail.com",
-  imageUrl: "./public/three.png",
+  imageUrl: "./three.png",
 };
 const navigation = [
   { name: "Dashboard", href: "#", current: true },
   { name: "Team", href: "#", current: false },
+  { name: "Register", href: "#", current: false },
 ];
 const userNavigation = [
   { name: "Your Profile", href: "#" },

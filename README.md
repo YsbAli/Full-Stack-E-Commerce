@@ -29,3 +29,7 @@ npm install react-redux
 # Plugins
 
 Tailwind CSS IntelliSense
+
+
+# React Router
+  <p>npm i react-router-dom</p>
